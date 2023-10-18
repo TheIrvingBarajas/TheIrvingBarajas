@@ -1,4 +1,4 @@
-<h2>Hi 👋, I'm Irving Barajas! A little about me:</h2>
+<h2>Hi 👋, I'm Irving Barajas!</h2>
 
 - 🔭 I’m currently working on some side projects and looking for my next opportunity!
 - 🤝 I’m looking to help grow junior engineers, just reach out
@@ -30,7 +30,7 @@
 
 <h2> Stats </h2>
 
-![Irving's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheIrvingBarajas&show_icons=true&theme=transparent&line_height=40&PAT_1) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheIrvingBarajas&PAT_1)](https://github.com/TheIrvingBarajas/github-readme-stats&PAT_1)
+![Irving's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheIrvingBarajas&show_icons=true&theme=transparent&line_height=40&PAT_1) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheIrvingBarajas&PAT_1)]
 
 <h2> Socials </h2>
 
