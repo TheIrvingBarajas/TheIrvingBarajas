@@ -30,7 +30,7 @@
 
 <h2> Stats </h2>
 
-![Irving's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheIrvingBarajas&show_icons=true&theme=transparent&line_height=40&PAT_1) [![Top Langs](https://github-readme-stats.vercel.app/api?username=TheIrvingBarajas&show_icons=true&theme=transparent&line_height=40&PAT_1)]
+![Irving's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheIrvingBarajas&show_icons=true&theme=transparent&line_height=40&PAT_1) [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=TheIrvingBarajas)](https://github.com/TheIrvingBarajas/github-readme-stats)
 
 <h2> Socials </h2>
 
