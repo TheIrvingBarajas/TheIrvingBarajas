@@ -1,7 +1,7 @@
 <h2>Hi 👋, I'm Irving Barajas!</h2>
 
-- 🔭 I’m currently working on some side projects and looking for my next opportunity!
-- 🤝 I’m looking to help grow junior engineers, just reach out
+- 🔭 I’m currently working on some side projects and I am open to new opportunities!
+- 🤝 Always looking to help grow junior engineers, just reach out
 - ⚡ Fun fact: I love to travel! I've been to 30+ countries.
 
 
